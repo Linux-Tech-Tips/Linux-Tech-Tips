@@ -2,8 +2,8 @@
 
 ## About me
 
-I like tech, coding and linux (obviously, who on this website doesn't?).
+I like tech, coding (obviously, who on this website doesn't?) and linux.
 
-I can work with **Java**, **Python** and **Bash** and am currently learning **C/C++**. I also work with Blender, GIMP and Krita from time to time.
+I can work with **Python**, **C/C++**, **Bash** and **Java**, with basic knowledge of **HTML/CSS/JS**, **PHP** and **PowerShell**. I also work with Blender, GIMP and Krita from time to time.
 
-I use Debian Linux with KDE Plasma desktop as my main OS.
+I use Debian Linux with KDE Plasma desktop.
