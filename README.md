@@ -4,6 +4,6 @@
 
 I like tech, coding (obviously, who on this website doesn't?) and linux.
 
-I can work with **Python**, **C/C++**, **Bash** and **Java**, with basic knowledge of **HTML/CSS/JS**, **PHP** and **PowerShell**. I also work with Blender, GIMP and Krita from time to time.
+I can work with **Python**, **C/C++**, **Bash** and **Java** (and **English** as well as a bit of **German**), with basic knowledge of **HTML/CSS/JS**, **Markdown**, **PHP** and **PowerShell**. I also work with Blender, GIMP and Krita from time to time.
 
-I use Debian Linux with KDE Plasma desktop.
+I use Debian Linux (btw) with KDE Plasma desktop.
